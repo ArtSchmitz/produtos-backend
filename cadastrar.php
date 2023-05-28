@@ -1,9 +1,9 @@
 <?php
 
 //cabecalho obrigatorio
-header("Acess-Control-Allow-Origin: *");
+header("Access-Control-Allow-Origin: *");
 header("Content-Type: application/json; charset=UTF-8");
-header("Acess-Control-Allow-Headers: *");
+header("Access-Control-Allow-Headers: *");
 // header("Access-Control-Allow-Methods: GET,PUT,POST,DELETE");
 
 //conexao com o db
